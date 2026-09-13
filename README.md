@@ -20,10 +20,10 @@ A simple web server built using Docker and Nginx. The project demonstrates Docke
 ## Screenshots
 
 ### Custom Web Page Running in Browser
-![Web Page](webpage-output.png)
+![Web Page](webpage.png)
 
 ### Docker Container Status
-![Container Status](docker-ps-output.png)
+![Container Status](container-status.png)
 
 ## Result
 The web server was successfully containerized and deployed using Docker, confirming proper understanding of Docker containerization, image building, and container lifecycle management.
